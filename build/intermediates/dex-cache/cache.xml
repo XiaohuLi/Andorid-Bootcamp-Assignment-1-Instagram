@@ -9,6 +9,41 @@
         <dex dex="/Users/xiaohu/InstagramViewer/app/build/intermediates/pre-dexed/debug/classes-f7fcfb1f32650c3d3819fb910dd50e801f4905f4.jar" />
     </item>
     <item
+        jar="/Users/xiaohu/Andorid-Bootcamp-Assignment-1-Instagram/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/xiaohu/Andorid-Bootcamp-Assignment-1-Instagram/app/build/intermediates/pre-dexed/debug/classes-d59cdc2b71857ac0d62fc546d4c5f8584b124d6c.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/Andorid-Bootcamp-Assignment-1-Instagram/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/xiaohu/Andorid-Bootcamp-Assignment-1-Instagram/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-8071029fa8a938dae081fd3c3dcc1143beda62c6.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/Andorid-Bootcamp-Assignment-1-Instagram/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/xiaohu/Andorid-Bootcamp-Assignment-1-Instagram/app/build/intermediates/pre-dexed/debug/classes-354fcdc7da2ebb344b6ea25e95c52d4fb9e00036.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/Andorid-Bootcamp-Assignment-1-Instagram/app/libs/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/xiaohu/Andorid-Bootcamp-Assignment-1-Instagram/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-731583a9be49efb6a63ff7c981378633bb1ca1a7.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/Andorid-Bootcamp-Assignment-1-Instagram/app/libs/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/xiaohu/Andorid-Bootcamp-Assignment-1-Instagram/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-ea01e63f827325c94b983215c9435acd0eb62580.jar" />
+    </item>
+    <item
         jar="/Users/xiaohu/InstagramViewer/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -21,6 +56,13 @@
         revision="21.1.2"
         sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
         <dex dex="/Users/xiaohu/InstagramViewer/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-1fc817c8a5c24281212859616714bac06a2b8e10.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/Andorid-Bootcamp-Assignment-1-Instagram/app/build/intermediates/exploded-aar/com.makeramen/roundedimageview/1.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2f7dddedcdb3facde33de103dcc32b10c43b92e">
+        <dex dex="/Users/xiaohu/Andorid-Bootcamp-Assignment-1-Instagram/app/build/intermediates/pre-dexed/debug/classes-29d31fe1a3efdb8cafda65d09bc260b388be189a.jar" />
     </item>
     <item
         jar="/Users/xiaohu/InstagramViewer/app/libs/android-async-http-1.4.6.jar"
