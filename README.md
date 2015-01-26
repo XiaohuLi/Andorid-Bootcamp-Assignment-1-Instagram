@@ -13,4 +13,4 @@ Meanwhile there are two issues with this app I don't know how to resolve yet
 2) The user profile image does not seem be to scaled properly.
 
 Here is the gif:
-![alt tag](https://raw.github.com/XiaohuLi/Andorid-Bootcamp-Assignment-1-Instagram/master/Instagram.gif
+![alt tag](https://raw.github.com/XiaohuLi/Andorid-Bootcamp-Assignment-1-Instagram/master/Instagram.gif)
