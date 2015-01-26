@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xiaohu/InstagramViewer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/xiaohu/InstagramViewer/app/build/intermediates/pre-dexed/debug/classes-f7fcfb1f32650c3d3819fb910dd50e801f4905f4.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/InstagramViewer/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/xiaohu/InstagramViewer/app/build/intermediates/pre-dexed/debug/classes-ebe809ebefd728bdb4a9fcb66e44c84dd999b407.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/InstagramViewer/app/libs/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/xiaohu/InstagramViewer/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-1fc817c8a5c24281212859616714bac06a2b8e10.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/InstagramViewer/app/libs/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/xiaohu/InstagramViewer/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-dc997fe715e4de51db8272724dc3d2aa1a7f64db.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/InstagramViewer/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/xiaohu/InstagramViewer/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-0030605114e1c4eb7a887de0a329ccfd6867f828.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/xiaohu/InstagramViewer/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-4bf192dff683e10f8ddea2727b0171a4a229a81b.jar" />
+    </item>
+    <item
+        jar="/Users/xiaohu/InstagramViewer/app/build/intermediates/exploded-aar/com.makeramen/roundedimageview/1.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2f7dddedcdb3facde33de103dcc32b10c43b92e">
+        <dex dex="/Users/xiaohu/InstagramViewer/app/build/intermediates/pre-dexed/debug/classes-c2f37d3fda8dfafd3d8f173b885088fe206f5c98.jar" />
+    </item>
+
+</items>
